@@ -1,0 +1,5 @@
+mpicc hello.c -o hello 
+Process 0 : MPI Version: 3.1
+Process 1 : Hello world! from ip-10-49-0-69
+Process 2 : Hello world! from ip-10-49-0-69
+Process 3 : Hello world! from ip-10-49-0-69
