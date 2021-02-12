@@ -1,0 +1,12 @@
+mpicc bcast.c -o bcast 
+Process 0: Bcast.     data=  25  6  38  37  36 
+Process 1: Bcast.     data=  25  6  38  37  36 
+Process 2: Bcast.     data=  25  6  38  37  36 
+Process 3: Bcast.     data=  25  6  38  37  36 
+Process 0: Bcast_alt. data=  25  6  38  37  36 
+
+Bcast time = 0.000011
+Process 1: Bcast_alt. data=  25  6  38  37  36 
+Process 2: Bcast_alt. data=  25  6  38  37  36 
+Process 3: Bcast_alt. data=  25  6  38  37  36 
+Bcast_alt time  = 0.000010

@@ -1,0 +1,36 @@
+mpicc bcast.c -o bcast 
+Process 1: Bcast.     data=  56  33  50  55  15 
+Process 2: Bcast.     data=  56  33  50  55  15 
+Process 3: Bcast.     data=  56  33  50  55  15 
+Process 4: Bcast.     data=  56  33  50  55  15 
+Process 5: Bcast.     data=  56  33  50  55  15 
+Process 6: Bcast.     data=  56  33  50  55  15 
+Process 7: Bcast.     data=  56  33  50  55  15 
+Process 8: Bcast.     data=  56  33  50  55  15 
+Process 9: Bcast.     data=  56  33  50  55  15 
+Process 10: Bcast.     data=  56  33  50  55  15 
+Process 11: Bcast.     data=  56  33  50  55  15 
+Process 12: Bcast.     data=  56  33  50  55  15 
+Process 13: Bcast.     data=  56  33  50  55  15 
+Process 14: Bcast.     data=  56  33  50  55  15 
+Process 15: Bcast.     data=  56  33  50  55  15 
+Process 0: Bcast.     data=  56  33  50  55  15 
+Process 0: Bcast_alt. data=  56  33  50  55  15 
+
+Process 1: Bcast_alt. data=  56  33  50  55  15 
+Process 2: Bcast_alt. data=  56  33  50  55  15 
+Process 3: Bcast_alt. data=  56  33  50  55  15 
+Process 4: Bcast_alt. data=  56  33  50  55  15 
+Process 5: Bcast_alt. data=  56  33  50  55  15 
+Process 6: Bcast_alt. data=  56  33  50  55  15 
+Process 7: Bcast_alt. data=  56  33  50  55  15 
+Process 8: Bcast_alt. data=  56  33  50  55  15 
+Process 9: Bcast_alt. data=  56  33  50  55  15 
+Process 10: Bcast_alt. data=  56  33  50  55  15 
+Process 11: Bcast_alt. data=  56  33  50  55  15 
+Process 12: Bcast_alt. data=  56  33  50  55  15 
+Process 13: Bcast_alt. data=  56  33  50  55  15 
+Process 14: Bcast_alt. data=  56  33  50  55  15 
+Process 15: Bcast_alt. data=  56  33  50  55  15 
+Bcast time = 0.000031
+Bcast_alt time  = 0.000066
